@@ -1,6 +1,6 @@
 local M = {}
 
-M.ui = { theme = 'chadracula' }
+M.ui = { theme = 'github_dark' }
 M.plugins = "custom.plugins"
 
 
